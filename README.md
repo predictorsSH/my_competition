@@ -1,6 +1,5 @@
-# AI Competitions 2
+# AI Competitions 
 
-Competitions 2차년도(2021)
 
 ## Contribute
 
