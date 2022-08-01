@@ -6,9 +6,9 @@
 1. [kaggle](#kaggle-구조)/dacon 안에 구조를 맞추어서, 참가한 대회 내용을 작성합니다.
 2. Pull Request를 작성합니다.
 
-## Kaggle 구조
+## Kaggle 및 Dacon 구조
 
-Kaggle 폴더 구조입니다.
+예시 Kaggle 폴더 구조입니다.
 
 ```console
 kaggle/
